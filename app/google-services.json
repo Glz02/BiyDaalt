@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "112282942674",
+    "firebase_url": "https://biydaalt-8aa32-default-rtdb.firebaseio.com",
+    "project_id": "biydaalt-8aa32",
+    "storage_bucket": "biydaalt-8aa32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112282942674:android:05d4624d3c3ce9fd93410b",
+        "android_client_info": {
+          "package_name": "com.example.biydaalt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkiXvEUaGwRbz60X4eRCmgQ4txp9MCLrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
